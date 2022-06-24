@@ -15,5 +15,4 @@ This is a project I created with my friend, Nisa Phelps, for our Object Oriented
 4.	Follow directions on the program for the duration of the instructions.
 
 5.	Enjoy your launches, you rocket scientist!
-![image](https://user-images.githubusercontent.com/70233099/175564518-f5df0d28-a979-49fa-ac8d-4f1de719a9b2.png)
 
